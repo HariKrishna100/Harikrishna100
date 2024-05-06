@@ -46,6 +46,8 @@
   </a>
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HariKrishna100&" alt="HariKrishna100" /></p>
+
 <h2 align="center"> Contact ME   </h2>
 <p align = "center">Are you a recruiter? Email me to access my private repositories! </p>
 <p align="center">
