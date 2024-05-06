@@ -1,13 +1,7 @@
 # Hello, World! 👋 I'm Harikrishna Patel
 
-## About Me
-
-➡️ Computer Engineering Technology Student at Seneca Polytechnic.
-
-## 🔭 What I'm Currently Diving Into
-
-[![Web Development](https://img.shields.io/badge/-Web_Development-000000?style=flat&logo=html5&logoColor=white)](https://www.github.com/HariKrishna100)  
-[![Open Source](https://img.shields.io/badge/-Open_Source_Contribution-000000?style=flat&logo=github&logoColor=white)](https://github.com/HariKrishna100)
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm a **Student 🎓 [@ Seneca College 🍁](https://www.senecacollege.ca/)** majoring in Computer Programming. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building web applications and building machine learning Algo's to simplify complex data. <br/><br/>
 
 <h2 align="center">✨ Languages and Tools ✨  </h2>
 
