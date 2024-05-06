@@ -40,7 +40,7 @@
 <p align="center">
   <a href="https://github.com/HariKrishna100?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=HariKrishna100&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@HariKrishna's GitHub-readme-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HariKrishna100&" alt="HariKrishna100" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HariKrishna100&" alt="HariKrishna100" />
   </a>
 </p>
 
