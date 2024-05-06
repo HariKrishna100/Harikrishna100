@@ -41,13 +41,23 @@
   </a>
 </p>
 
-## 📫 How to Get in Touch
+<h2 align="center"> Contact ME   </h2>
+<p align = "center">Are you a recruiter? Email me to access my private repositories! </p>
+<p align="center">
+  
+  <a href="mailto: haripatel2004@icloud.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  </a> 
+  <a href="https://www.linkedin.com/in/harikrishna0920/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
+  </a> 
+</p>
+<!---
+![github contribution grid snake animation](https://raw.githubusercontent.com/ciaracade/ciaracade/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ciaracade/ciaracade/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-[![Linkedin: Harikrishna](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harikrishna0920/)](https://www.linkedin.com/in/harikrishna0920/)
-[![Gmail: Harikrishna](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:haripatel2004@icloud.com)](mailto:haripatel2004@icloud.com)
-
-<a href="https://github.com/HariKrishna100">
-    <img src="Assets/contributions.svg" />
-  </a>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width = "1000">
+</p>
 
 ### Thanks for dropping by, and let's embark on an exciting coding journey together! 🚀
